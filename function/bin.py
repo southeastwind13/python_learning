@@ -15,4 +15,4 @@ Binary representation of the number.
 
 number = 15
 
-print(f'The binary equivalent of 15 is {bin(number)}')
+print(f'The binary equivalent of 15 is {bin(number)}') # The binary equivalent of 15 is 0b1111

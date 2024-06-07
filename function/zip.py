@@ -16,4 +16,4 @@ The zipped object.
 a = [1, 2, 3, 4, 5]
 b = ['a', 'b', 'c', 'd', 'e', 'f']
 
-print(list(zip(a, b)))  
+print(list(zip(a, b)))  # [(1, 'a'), (2, 'b'), (3, 'c'), (4, 'd'), (5, 'e')]

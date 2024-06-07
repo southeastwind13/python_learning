@@ -17,6 +17,6 @@ intger_number = -10
 floating_number = -3.14
 complex_number   = 3 + 4j
 
-print(abs(intger_number))
-print(abs(floating_number))
-print(abs(complex_number))
+print(abs(intger_number)) # 10
+print(abs(floating_number)) # 3.14
+print(abs(complex_number)) # 5 

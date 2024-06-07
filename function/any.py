@@ -17,6 +17,6 @@ a = []
 b = ('A')
 c = [False]
 
-print(any(a))
-print(any(b))
-print(any(c))
+print(any(a)) # False
+print(any(b)) # True
+print(any(c)) # False

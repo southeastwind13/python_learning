@@ -18,7 +18,7 @@ b = [1, 2, 3 ,4]
 c = [1, 2, 3, 4, False]
 d = [1, 2, 3, 4, 0]
 
-print(all(a))
-print(all(b))
-print(all(c))
-print(all(d))
+print(all(a)) # True
+print(all(b)) # True
+print(all(c)) # False
+print(all(d)) # False
