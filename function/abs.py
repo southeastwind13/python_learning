@@ -3,8 +3,14 @@ abs (Absolute)
 
 Function to calculate magnitude of a number. 
 
-:param number: The number to calculate magnitude (Can be real or complex).
-:return: Absolute value of the number (Can be int or float).
+Syntax:
+abs(number)
+
+Parameters:
+number: The number to calculate magnitude.
+
+Returns:
+Absolute value of the number.
 '''
 
 intger_number = -10

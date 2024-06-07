@@ -3,8 +3,14 @@ all
 
 Function to check all elements in an iterable are true.
 
-:param iterable: The iterable to check.
-:return: True if all elements are true, otherwise False.
+Syntax
+all(iterable)
+
+Parameters
+iterable: The iterable to check.    
+
+Returns
+True if all elements are true, otherwise False.
 '''
 
 a = []
