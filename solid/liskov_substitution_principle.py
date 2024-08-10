@@ -6,6 +6,9 @@ affecting the correctness of the program.
 Real world situation: 
 We are driving a vehicle, and we can change the type of it (car, plane, etc).
 
+In Practice: Ensure that subclasses alter expected behavior. For example, if you 
+have a class Bird with a method move(), each subclass should implement the 
+move() method to reflect its specific type of movement
 
 '''
 
