@@ -10,6 +10,8 @@ In Practice: Ensure that subclasses alter expected behavior. For example, if you
 have a class Bird with a method move(), each subclass should implement the 
 move() method to reflect its specific type of movement
 
+Example: To follow the Liskov Substitution Principle, we should ensure that 
+subclasses override methods to reflect their behavior correctly:
 '''
 
 class Vehicle:
