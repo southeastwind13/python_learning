@@ -15,7 +15,8 @@ To follow the Interface Segregation Principle, we should create specific
 interfaces for each type of functionality:
 
 
-Separate interfaces so wecan use it with different implementations
+Separate interfaces to be small piece so we can use it with different 
+implementations
 '''
 
 from abc import ABC, abstractmethod
